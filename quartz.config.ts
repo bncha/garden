@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://github.com/bncha/garden.git",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
