@@ -1,6 +1,4 @@
 [submodule "garden"]
 	path = garden
-	url = https://github.com/bncha/garden/tree/3c95882eac4e78eb6ffb2fa904589c3710ea1d85
-[submodule "gardenn"]
-	path = gardenn
-	url = https://github.com/bncha/garden/
+	url = https://github.com/bncha/garden.git
+
